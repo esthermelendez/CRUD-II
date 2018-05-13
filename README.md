@@ -59,7 +59,7 @@ Al hacer click en la opción "BORRAR PERFIL", nos encontramos con el listado de 
 </br>
 </br>
 </br>
-<img src="BORRAR.PNG">
+<img src="borrado.PNG">
 
 # MODIFICAR
 </br>
