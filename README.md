@@ -9,3 +9,5 @@ En este menú se muestran alguna información de los clientes registrados.
 </br>
 </br>
 </br>
+
+<img src="inicio.PNG">
