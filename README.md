@@ -7,7 +7,7 @@ Esta práctica de CRUD trata sobre una segunda parte del crud creado anteriormen
 
 # LOGIN
 Al comenzar, podemos observar un LOGIN, en el cual aparece un formulario en el que se deberán introducir los datos correctos para acceder al sistema, si no, se mostrará un mensaje de error.
-<img src="login.PNG">
+<img src="login1.PNG">
 <img src="login2.PNG">
 
 
