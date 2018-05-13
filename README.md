@@ -51,6 +51,7 @@ Al hacer click en la opción "AÑADIR PERFIL" nos encontramos con un formulario,
 </br>
 </br>
 <img src="alta.PNG">
+<img src="alta2.PNG">
 
 
 # BORRADO
