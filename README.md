@@ -68,5 +68,5 @@ Al hacer click sobre el botón "MODIFICAR" en la ventana "CLIENTES", se nos redi
 </br>
 </br>
 </br>
-<img src="modificar.PNG">
+<img src="modificar4.PNG">
 <img src="modificar2.PNG">
