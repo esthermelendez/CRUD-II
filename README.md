@@ -1,5 +1,5 @@
 # CRUD_JSP-II
-Esta práctica de CRUD trata sobre una segunda parte del crud creado anteriormente, en la cual se han agregado una serie de mejoras. Como en el ejercicio anterior, se basa en una base de datos de una tienda de productos de peluquería. Dicha base de datos estará compuesta por las tablas producto, cliente, poveedor y articulo proveedor.
+Esta práctica de CRUD trata sobre una segunda parte del crud creado anteriormente, en la cual se han agregado una serie de mejoras. Como en el ejercicio anterior, se basa en una base de datos de una tienda de productos de peluquería llamada BEAUTY. Dicha base de datos estará compuesta por las tablas producto, cliente, poveedor y articulo proveedor.
 
 </br>
 
